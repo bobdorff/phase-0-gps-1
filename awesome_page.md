@@ -1,4 +1,4 @@
-*bold**
+**bold**
 
 _italics_
 
